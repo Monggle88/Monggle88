@@ -1,9 +1,11 @@
-<center>### Hello World 👋</center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monggle88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  ### Hello World 👋
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monggle88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=fmonggle88)](https://solved.ac/fmonggle88)
-
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=fmonggle88)](https://solved.ac/fmonggle88)  
+</div>
 
 <!--
 **Monggle88/Monggle88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
